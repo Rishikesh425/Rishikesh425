@@ -47,20 +47,29 @@ ATRIA modernizes campus operations at scale — colleges can manage multi-level 
 
 **Frontend Tech Stack:**
 
+**Core Framework & Build Tool**
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Styling, Design & Animations**
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Lucide React](https://img.shields.io/badge/Lucide_React-grey?style=flat-square)
+![Lucide React](https://img.shields.io/badge/Lucide_React-4B5563?style=flat-square)
+
+**State Management & Data Fetching**
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+**UI Components & Carousels**
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white)
-![React Slick](https://img.shields.io/badge/React_Slick-grey?style=flat-square)
-![React Datepicker](https://img.shields.io/badge/React_Datepicker-grey?style=flat-square)
-![qrcode.react](https://img.shields.io/badge/QR_Generate-grey?style=flat-square)
-![html5-qrcode](https://img.shields.io/badge/QR_Scan-grey?style=flat-square)
-![date-fns](https://img.shields.io/badge/date--fns-grey?style=flat-square)
-![markdown-it](https://img.shields.io/badge/markdown--it-grey?style=flat-square)
-![pdfkit](https://img.shields.io/badge/PDFKit-grey?style=flat-square)
+![React Slick](https://img.shields.io/badge/React_Slick-4B5563?style=flat-square)
+![React Datepicker](https://img.shields.io/badge/React_Datepicker-4B5563?style=flat-square)
+
+**Specialized Feature Libraries**
+![qrcode.react](https://img.shields.io/badge/QR_Generate-4B5563?style=flat-square)
+![html5-qrcode](https://img.shields.io/badge/QR_Scan-4B5563?style=flat-square)
+![date-fns](https://img.shields.io/badge/date--fns-4B5563?style=flat-square)
+![markdown-it](https://img.shields.io/badge/markdown--it-4B5563?style=flat-square)
+![pdfkit](https://img.shields.io/badge/PDFKit-4B5563?style=flat-square)
 ![jwt-decode](https://img.shields.io/badge/jwt--decode-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ---
