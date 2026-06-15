@@ -45,41 +45,47 @@ ATRIA modernizes campus operations at scale — colleges can manage multi-level 
 - ⚡ **Framer Motion animations**, Swiper carousels, and React Query for a smooth, data-driven UX
 - 📄 **PDF export** for event reports and attendee lists; **Markdown** support for rich event descriptions
 
-**Tech Stack:**
+**Frontend Tech Stack:**
 
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Lucide React](https://img.shields.io/badge/Lucide_React-grey?style=flat-square)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white)
+![React Slick](https://img.shields.io/badge/React_Slick-grey?style=flat-square)
+![React Datepicker](https://img.shields.io/badge/React_Datepicker-grey?style=flat-square)
+![qrcode.react](https://img.shields.io/badge/QR_Generate-grey?style=flat-square)
+![html5-qrcode](https://img.shields.io/badge/QR_Scan-grey?style=flat-square)
+![date-fns](https://img.shields.io/badge/date--fns-grey?style=flat-square)
+![markdown-it](https://img.shields.io/badge/markdown--it-grey?style=flat-square)
+![pdfkit](https://img.shields.io/badge/PDFKit-grey?style=flat-square)
+![jwt-decode](https://img.shields.io/badge/jwt--decode-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ---
 
 ### 🛒 [Amazon Shopping Cart System](https://github.com/Rishikesh425/Amazon-Shopping-Cart-Clone)
 
-> A console-based shopping cart application inspired by Amazon's shopping experience, built to strengthen programming fundamentals, data structures, and object-oriented design.
+> A feature-rich console-based shopping cart application inspired by Amazon's shopping experience, built to strengthen Python fundamentals, data structures, and object-oriented design.
 
 **Key highlights:**
-- 🛍️ Add, remove, search, and update products in the cart
-- 💳 Checkout system with GST calculation and discount handling
-- 🏦 Bank balance management with recharge functionality
-- 📜 Transaction history tracking and purchase summaries
-- 🔍 Product search and cart management operations
-- ⚡ Interactive menu-driven application built using Python
+- 🗂️ **5 product categories** (Electronics, Clothes, Shoes, Daily Essentials, Protein & Supplements) with multi-level brand/model hierarchy
+- 🛍️ **Full cart operations** — add, remove, and update quantities with real-time stock tracking
+- 💳 **Checkout system** with category-wise GST calculation (5%–18%), discount handling, and itemized billing using `tabulate`
+- 🏦 **Bank account simulation** — balance management, online payment processing, and recharge functionality
+- 📜 **Transaction history** tracking with datetime-stamped purchase summaries
+- 🔍 **Menu-driven navigation** with nested category → subcategory → brand → product drill-down
+- 📦 **Stock management** — per-product inventory initialized at 10 units, decremented on purchase and restored on removal
 
 **Tech Stack:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-grey?style=flat-square)
-![DSA](https://img.shields.io/badge/DSA-grey?style=flat-square)
+![DSA](https://img.shields.io/badge/Data_Structures-grey?style=flat-square)
+![tabulate](https://img.shields.io/badge/tabulate-grey?style=flat-square)
+![datetime](https://img.shields.io/badge/datetime-grey?style=flat-square)
+![decimal](https://img.shields.io/badge/decimal-grey?style=flat-square)
 
 ---
 
@@ -115,10 +121,7 @@ ATRIA modernizes campus operations at scale — colleges can manage multi-level 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
