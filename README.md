@@ -1,153 +1,622 @@
 <div align="center">
 
-<h1>Hi there 👋, I am Rishikesh Paladugu</h1>
+# RISHIKESH PALADUGU
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+React+%26+Spring+Boot;Frontend+Developer+%7C+React+%26+Tailwind+CSS;Building+scalable%2C+production-ready+web+apps;Passionate+about+UI%2FUX+%26+Software+Engineering)](https://git.io/typing-svg)
+### Full-Stack Developer • Computer Science Student • AI/ML Enthusiast
 
-<p>
-  <a href="https://www.linkedin.com/in/rishikesh-paladugu-23596b301"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Rishikesh425"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/GH2023004041/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
+<samp>
+Building production-ready applications, scalable APIs, intelligent systems, and practical software solutions.
+</samp>
+
+<br/>
+
+<a href="https://github.com/Rishikesh425">
+<img src="https://img.shields.io/badge/GitHub-Rishikesh425-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:rishikeshp611@gmail.com">
+<img src="https://img.shields.io/badge/Email-rishikeshp611%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rishikesh%20Paladugu&fontSize=55&animation=twinkling" width="100%"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# `01` — WHO AM I?
 
-Full-Stack Developer (Frontend-focused) passionate about building end-to-end web applications — from clean, pixel-perfect UIs to scalable backend APIs. I work primarily with **React** and **Tailwind CSS**, and enjoy turning real-world problems into polished, production-ready products. I learn best by shipping things.
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                      RISHIKESH PALADUGU                     │
+├─────────────────────────────────────────────────────────────┤
+│ 🎓 B.Tech Computer Science & Engineering                   │
+│ 🏫 GITAM Deemed University, Hyderabad                      │
+│ 📅 2023 — 2027                                             │
+│ 📊 CGPA: 7.8 / 10                                         │
+│ 💻 Full-Stack Development                                  │
+│ 🤖 AI / Machine Learning                                   │
+│ 🗄️  Databases & REST APIs                                  │
+└─────────────────────────────────────────────────────────────┘
+```
 
-- 🔭 Currently building **ATRIA** — a multi-college campus engagement & event management platform
-- 🎨 Passionate about **UI/UX design** and building visually rich, responsive interfaces
-- 🎓 Pursuing **Full-Stack Development** and **Software Engineering**
-- 💬 Ask me about **React**, **Spring Boot**, **REST APIs**, **JWT auth**, or **PostgreSQL**
+I am a **third-year B.Tech Computer Science student** specialising in **full-stack web development**, with hands-on experience building **production-ready SPAs, REST APIs, and role-based platforms across the entire stack**.
 
----
+I have experience working with **React, Spring Boot, Node.js, Python, and SQL**, and enjoy building applications that combine strong technical implementation with practical product thinking.
 
-## 🚀 Featured Projects
-
-### 🎓 [ATRIA — Campus Engagement & Event Management Platform](https://github.com/Rishikesh425/Atria)
-
-> Connecting students, clubs, and college administrators through a unified ecosystem for events, registrations, attendance, and analytics.
-
-ATRIA modernizes campus operations at scale — colleges can manage multi-level administration, clubs can run their own dashboards, and students get a seamless experience for discovering and registering for campus activities.
-
-**Key highlights:**
-- 🏛️ **Multi-college architecture** with platform owner, college admin, club admin, and student roles (RBAC)
-- 🔐 **Google OAuth2 + JWT** access & refresh token authentication with auto-inactivity logout (30 min)
-- 📅 **Full event lifecycle** — creation, publishing, registration workflows, and participant management
-- ✅ **QR-based attendance system** with real-time check-in monitoring and conversion tracking
-- 📊 **Analytics dashboards** with year-wise & stream-wise participant distribution and club performance metrics
-- 🎨 **Dynamic per-college UI theming** using CSS custom properties set at login
-- ☁️ **Cloudinary integration** for event banner uploads and secure cloud asset storage
-- 🧩 **Role-specific dashboards** — student portal, club admin panel, college admin panel, and platform owner panel
-- ⚡ **Framer Motion animations**, Swiper carousels, and React Query for a smooth, data-driven UX
-- 📄 **PDF export** for event reports and attendee lists; **Markdown** support for rich event descriptions
-
-**Frontend Tech Stack:**
-
-**Core Framework & Build Tool**
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Styling, Design & Animations**
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Lucide React](https://img.shields.io/badge/Lucide_React-4B5563?style=flat-square)
-
-**State Management & Data Fetching**
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-
-**UI Components & Carousels**
-![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white)
-![React Slick](https://img.shields.io/badge/React_Slick-4B5563?style=flat-square)
-![React Datepicker](https://img.shields.io/badge/React_Datepicker-4B5563?style=flat-square)
-
-**Specialized Feature Libraries**
-![qrcode.react](https://img.shields.io/badge/QR_Generate-4B5563?style=flat-square)
-![html5-qrcode](https://img.shields.io/badge/QR_Scan-4B5563?style=flat-square)
-![date-fns](https://img.shields.io/badge/date--fns-4B5563?style=flat-square)
-![markdown-it](https://img.shields.io/badge/markdown--it-4B5563?style=flat-square)
-![pdfkit](https://img.shields.io/badge/PDFKit-4B5563?style=flat-square)
-![jwt-decode](https://img.shields.io/badge/jwt--decode-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+I am open to opportunities in **Software Engineering** and **Full-Stack Development**, where strong technical and product instincts can drive meaningful impact.
 
 ---
 
-### 🛒 [Amazon Shopping Cart System](https://github.com/Rishikesh425/Amazon-Shopping-Cart-Clone)
+# `02` — QUICK PROFILE
 
-> A feature-rich console-based shopping cart application inspired by Amazon's shopping experience, built to strengthen Python fundamentals, data structures, and object-oriented design.
-
-**Key highlights:**
-- 🗂️ **5 product categories** (Electronics, Clothes, Shoes, Daily Essentials, Protein & Supplements) with multi-level brand/model hierarchy
-- 🛍️ **Full cart operations** — add, remove, and update quantities with real-time stock tracking
-- 💳 **Checkout system** with category-wise GST calculation (5%–18%), discount handling, and itemized billing using `tabulate`
-- 🏦 **Bank account simulation** — balance management, online payment processing, and recharge functionality
-- 📜 **Transaction history** tracking with datetime-stamped purchase summaries
-- 🔍 **Menu-driven navigation** with nested category → subcategory → brand → product drill-down
-- 📦 **Stock management** — per-product inventory initialized at 10 units, decremented on purchase and restored on removal
-
-**Tech Stack:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-grey?style=flat-square)
-![DSA](https://img.shields.io/badge/Data_Structures-grey?style=flat-square)
-![tabulate](https://img.shields.io/badge/tabulate-grey?style=flat-square)
-![datetime](https://img.shields.io/badge/datetime-grey?style=flat-square)
-![decimal](https://img.shields.io/badge/decimal-grey?style=flat-square)
+| Category | Details |
+|---|---|
+| 🎓 Degree | B.Tech — Computer Science & Engineering |
+| 🏫 University | GITAM Deemed University, Hyderabad |
+| 📅 Graduation | 2027 |
+| 📊 CGPA | 7.8 / 10 |
+| 💼 Experience | Full Stack Developer Intern |
+| 🌐 Primary Focus | Full-Stack Development |
+| 🤖 Secondary Focus | AI / ML |
+| 💻 Languages | Python, Java, C, JavaScript |
+| ⚛️ Frontend | React 19, Vite, Tailwind CSS |
+| ⚙️ Backend | Spring Boot, Node.js, REST APIs |
+| 🗄️ Databases | MySQL, PostgreSQL |
+| 🔐 Authentication | JWT, OAuth2 |
+| 🛠️ Tools | Git, GitHub, VS Code, JetBrains IDEs, Postman |
 
 ---
 
-## 🛠️ Tech Stack
+# `03` — TECHNICAL SKILLS
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## Programming Languages
 
-### Frontend
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Languages:**  
+`Python` · `Java` · `C` · `JavaScript` · `HTML/CSS`
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Data & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains_IDEs-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
 
-## 🤝 Connect with Me
+## Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+</p>
+
+**Frontend:**  
+`React 19` · `Vite` · `Tailwind CSS` · `Framer Motion` · `TanStack Query`
+
+---
+
+## Backend Development
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+**Backend:**  
+`Spring Boot` · `Node.js` · `JWT` · `REST APIs`
+
+---
+
+## Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+**Databases:**  
+`MySQL` · `PostgreSQL`
+
+---
+
+## Data & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+</p>
+
+**Data & ML:**  
+`Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn (Basics)` · `TensorFlow (Basics)`
+
+---
+
+## Development Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/JetBrains_IDEs-000000?style=flat-square&logo=jetbrains&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</p>
+
+**Tools & Platforms:**  
+`Git` · `GitHub` · `VS Code` · `JetBrains IDEs` · `Postman`
+
+---
+
+# `04` — FEATURED PROJECTS
+
+## 🚀 ATRIA
+
+### Campus Engagement & Event Management Platform
+
+**2024 — 2025**
+
+<p>
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
+
+### Overview
+
+ATRIA is a **multi-role campus engagement and event management platform** designed to provide tailored experiences for students, club administrators, college administrators, and platform owners.
+
+### Key Features
+
+#### 👥 Multi-Role Architecture
+
+Built a multi-role SPA supporting **4 different user types**:
+
+```text
+                    ATRIA PLATFORM
+                          │
+        ┌─────────────────┼─────────────────┐
+        │                 │                 │
+        ▼                 ▼                 ▼
+     STUDENT         CLUB ADMIN       COLLEGE ADMIN
+        │                 │                 │
+        └─────────────────┼─────────────────┘
+                          │
+                          ▼
+                  PLATFORM OWNER
+```
+
+Each role has its own **tailored interface, dashboard, and access controls**.
+
+---
+
+#### 🔐 Authentication & Security
+
+- Implemented authentication using **OAuth2 + JWT**
+- Added custom **30-minute inactivity timeout**
+- Implemented role-based access control
+- Secured different application areas based on user roles
+
+---
+
+#### 📱 QR-Based Event Check-In
+
+Implemented QR-based event check-in and attendance tracking using:
+
+- `html5-qrcode`
+- `qrcode.react`
+
+This enables **instant event verification without manual entry**.
+
+---
+
+#### ⚡ Optimised Data Fetching
+
+Integrated **TanStack React Query** to:
+
+- Optimise data fetching
+- Eliminate redundant API calls
+- Maintain synchronisation across application views
+- Improve overall application responsiveness
+
+---
+
+#### 📄 PDF Generation
+
+Integrated **PDFKit** for client-side PDF generation.
+
+Used for:
+
+- Downloadable event tickets
+- Administrative reports
+
+---
+
+#### 🎨 UI / UX
+
+Designed a responsive and animated event discovery experience using:
+
+- Tailwind CSS v4
+- Framer Motion
+- Swiper carousels
+
+The interface was designed to provide a smooth and responsive experience across different devices.
+
+---
+
+### ATRIA Technology Stack
+
+```text
+Frontend
+├── React 19
+├── Vite
+├── Tailwind CSS v4
+├── Framer Motion
+├── TanStack React Query
+└── Swiper
+
+Authentication
+├── OAuth2
+└── JWT
+
+Event System
+├── html5-qrcode
+└── qrcode.react
+
+Document Generation
+└── PDFKit
+
+Backend
+└── Node.js
+```
+
+### Project Focus
+
+`Full-Stack Development` · `RBAC` · `Authentication` · `REST APIs` · `QR Systems` · `Data Synchronisation` · `Responsive UI`
+
+---
+
+# 🛒 `05` — AMAZON SHOPPING CART CLONE
+
+### Python-Based E-Commerce System
+
+**2025**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-Programming-6DB33F?style=flat-square"/>
+<img src="https://img.shields.io/badge/File-Handling-F7DF1E?style=flat-square&logoColor=black"/>
+</p>
+
+### Overview
+
+Built a **console-based e-commerce system** using Python, Object-Oriented Programming, and file handling.
+
+### Features
+
+- 🛍️ **5 product categories**
+- 📦 **20+ SKUs**
+- ➕ Add products to cart
+- ➖ Remove products from cart
+- 🔄 Update cart items
+- 🧾 GST calculation
+- 💰 Discount calculation
+- 💳 Mock payment system
+- 🏦 Bank-balance validation
+- 📜 Complete transaction history
+
+### Architecture
+
+```text
+Amazon Shopping Cart
+        │
+        ├── Product Management
+        │       ├── Categories
+        │       └── SKUs
+        │
+        ├── Shopping Cart
+        │       ├── Add
+        │       ├── Remove
+        │       └── Update
+        │
+        ├── Billing
+        │       ├── GST
+        │       └── Discounts
+        │
+        ├── Payment
+        │       └── Bank Balance Validation
+        │
+        └── Transaction History
+```
+
+### Project Focus
+
+`Python` · `OOP` · `File Handling` · `E-Commerce Logic` · `Transaction Processing`
+
+---
+
+# `06` — PROFESSIONAL EXPERIENCE
+
+## 💼 Full Stack Developer Intern
+
+### Manteio IT Solutions Pvt. Ltd.
+
+📍 Hyderabad, India  
+📅 **May 2026 — June 2026**
+
+During my internship, I worked as a **Full Stack Developer**, contributing to real-time development tasks and production-relevant features across the stack.
+
+### Responsibilities
+
+- Worked on **real-time development tasks**
+- Contributed to **production-relevant features**
+- Worked across the **full stack**
+- Collaborated with the engineering team
+- Followed company development practices
+- Took ownership of assigned tasks
+- Delivered assigned development work with reliability
+
+---
+
+# `07` — EDUCATION
+
+## 🎓 GITAM Deemed University
+
+**B.Tech — Computer Science & Engineering**
+
+`2023 — 2027`
+
+**CGPA: 7.8 / 10**
+
+📍 Hyderabad, India
+
+---
+
+## 🏫 St. Patrick's Junior College
+
+**Intermediate — TSBIE**
+
+`2021 — 2023`
+
+**Percentage: 82%**
+
+📍 Hyderabad, India
+
+---
+
+## 🏫 Delhi Public School
+
+**Secondary Education — CBSE**
+
+`May 2021`
+
+**CGPA: 8.5 / 10**
+
+📍 Hyderabad, India
+
+---
+
+# `08` — LEARNING JOURNEY
+
+```text
+2021
+ │
+ ├── Secondary Education
+ │
+ ▼
+2023
+ │
+ ├── Intermediate — TSBIE
+ │
+ ▼
+2023
+ │
+ ├── B.Tech Computer Science
+ │
+ ▼
+2024
+ │
+ ├── ATRIA
+ │
+ │   └── Campus Engagement Platform
+ │
+ ▼
+2025
+ │
+ ├── Amazon Shopping Cart
+ │
+ │   └── Python / OOP / File Handling
+ │
+ ▼
+2026
+ │
+ ├── Full Stack Developer Internship
+ │   └── Manteio IT Solutions
+ │
+ ├── Full-Stack Development
+ │
+ └── AI / ML Engineering
+ │
+ ▼
+2027
+ │
+ └── B.Tech Graduation
+```
+
+---
+
+# `09` — AI / ML JOURNEY
+
+Currently expanding my knowledge beyond traditional software development into **Artificial Intelligence and Machine Learning**.
+
+### Current Areas
+
+```text
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        │
+        ├── Deep Learning
+        │
+        ├── Natural Language Processing
+        │
+        ├── LLM Engineering
+        │
+        ├── Retrieval-Augmented Generation
+        │
+        ├── QLoRA
+        │
+        └── AI Agents
+```
+
+---
+
+# `10` — CERTIFICATIONS & LEARNING
+
+### 🤖 AI Engineer Core Track
+
+**LLM Engineering · RAG · QLoRA · Agents**
+
+`In Progress`
+
+---
+
+### 📊 Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp
+
+**Data Science · Machine Learning · Deep Learning · NLP**
+
+`In Progress`
+
+---
+
+# `11` — GITHUB STATISTICS
 
 <div align="center">
 
-I'm always open to collaborating on interesting full-stack projects, discussing system design, or just connecting with fellow developers.
+<img src="https://github-readme-stats.vercel.app/api?username=Rishikesh425&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%" alt="GitHub Statistics"/>
 
-<a href="https://www.linkedin.com/in/rishikesh-paladugu-23596b301"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/GH2023004041/"><img src="https://img.shields.io/badge/LeetCode-Check_my_solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikesh425&layout=compact&hide_border=true&theme=transparent" width="42%" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishikesh425&hide_border=true&theme=transparent" width="70%" alt="GitHub Streak"/>
 
 </div>
 
 ---
+
+# `12` — CONTRIBUTION TELEMETRY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishikesh425&bg_color=00000000&color=808080&line=808080&point=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="95%" alt="GitHub Contribution Activity"/>
+
+</div>
+
+---
+
+# `13` — ENGINEERING PHILOSOPHY
+
+```text
+              ┌────────────────────┐
+              │       IDEA         │
+              └─────────┬──────────┘
+                        ↓
+              ┌────────────────────┐
+              │      DESIGN        │
+              └─────────┬──────────┘
+                        ↓
+              ┌────────────────────┐
+              │       BUILD        │
+              └─────────┬──────────┘
+                        ↓
+              ┌────────────────────┐
+              │       TEST         │
+              └─────────┬──────────┘
+                        ↓
+              ┌────────────────────┐
+              │      DEPLOY        │
+              └─────────┬──────────┘
+                        ↓
+              ┌────────────────────┐
+              │      IMPROVE       │
+              └────────────────────┘
+```
+
+> **Build → Learn → Experiment → Improve**
+
+I believe in learning through implementation, building complete systems, understanding the technology behind them, and continuously improving the way I solve problems.
+
+---
+
+# `14` — CURRENT FOCUS
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  💻 FULL-STACK DEVELOPMENT                         │
+│     React • Spring Boot • Node.js • REST APIs     │
+│                                                    │
+│  🗄️ BACKEND & DATABASES                            │
+│     MySQL • PostgreSQL • JWT                      │
+│                                                    │
+│  🤖 ARTIFICIAL INTELLIGENCE                        │
+│     ML • DL • NLP • LLMs • RAG • Agents           │
+│                                                    │
+│  🚀 SOFTWARE ENGINEERING                           │
+│     Scalable Systems • Clean Architecture         │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+---
+
+# `15` — CONNECT WITH ME
+
+<div align="center">
+
+### Let's build something meaningful.
+
+I'm interested in **Software Engineering, Full-Stack Development, AI/ML, and building practical technology solutions.**
+
+<br/>
+
+<a href="mailto:rishikeshp611@gmail.com">
+<img src="https://img.shields.io/badge/Email-rishikeshp611%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rishikesh425">
+<img src="https://img.shields.io/badge/GitHub-Rishikesh425-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<samp>
+
+**From an idea → to code → to a working system.**
+
+</samp>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+
+</div>
